@@ -1,0 +1,5 @@
+print("Kunal Chavan")
+print("10")
+print("t1")
+print("student")
+print("hey there")
